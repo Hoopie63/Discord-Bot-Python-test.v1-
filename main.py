@@ -10,7 +10,7 @@ COR = 0xF7FE2E
 
 @client.event
 async def on_ready():
-    print("BOT ONLINE - FUCK THE WORLD")
+    print("BOT ONLINE - THE WORLD")
     print(client.user.name)
 
 @client.event
