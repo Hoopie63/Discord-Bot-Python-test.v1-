@@ -123,7 +123,7 @@ client.run(token)
 
 ############## Não usado ##############
 #if message.content.lower().startswith("?moeda"):
-#if message.author.id == "405068191052595201":
+#if message.author.id == "XXXXXXXXXXX":
 #choice = random.randint(1,2)
 #if choice == 1:
 #await client.add_reaction(message, "👦🏾")
